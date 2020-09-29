@@ -75,7 +75,6 @@ acronym {
 
 a {
   outline: none; /* for Firefox */
-  hlbr: expression(this.onFocus=this.blur()); /* for IE */
   text-decoration: none;
 }
 
