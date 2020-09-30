@@ -1,6 +1,6 @@
 {
   "name": "@troyexu/yl-reset",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "yl-reset",
   "main": "reset.css",
   "style": "reset.css",
