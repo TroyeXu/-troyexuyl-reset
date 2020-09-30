@@ -1,12 +1,12 @@
 {
   "name": "@troyexu/yl-reset",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "description": "yl-reset",
-  "main": "reset.css",
-  "style": "reset.css",
+  "main": "index.scss",
+  "style": "index.scss",
   "files": [
     "LICENSE.md",
-    "reset.css"
+    "index.scss"
   ],
   "license": "MIT"
 }
